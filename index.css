@@ -3,6 +3,7 @@ body {
    display: flex;
    justify-content: center;
    flex-direction: column;
+   font-family: 'Poppins', sans-serif;
 
 }
 
